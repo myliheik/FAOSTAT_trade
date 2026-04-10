@@ -1,0 +1,161 @@
+lu_class,lu_class_description,fao_code,spam2000,spam2005_spam2010,spam2020
+CL-BANP,banana / plantain,486,BANP,BANA,BANA
+CL-BANP,banana / plantain,489,BANP,PLNT,PLNT
+CL-BARL,barley,44,BARL,BARL,BARL
+CL-BEAN,bean,176,BEAN,BEAN,BEAN
+CL-CASS,cassava,125,CASS,CASS,CASS
+CL-COFF,coffee,656,COFF,"ACOF, RFOC","ACOF, RCOF"
+CL-COTT,cotton,328,COTT,COTT,COTT
+CL-GROU,groundnut,242,GROU,GROU,GROU
+CL-MAIZ,maize,56,MAIZ,MAIZ,MAIZ
+CL-MILL,millet,79,MILL,"PMIL, SMIL","PMIL, SMIL"
+CL-OFIB,other fiber crops,773,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,777,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,780,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,782,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,788,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,789,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,800,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,809,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,813,OFIB,OFIB,OFIB
+CL-OFIB,other fiber crops,821,OFIB,OFIB,OFIB
+CL-OOIL,other oil crops,260,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,263,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,292,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,265,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,275,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,277,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,280,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,296,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,299,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,305,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,310,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,333,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,339,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,336,OOIL,OOIL,OOIL
+CL-OOIL,other oil crops,249,OOIL,CNUT,CNUT
+CL-OOIL,other oil crops,254,OOIL,OILP,OILP
+CL-OOIL,other oil crops,267,OOIL,SUNF,SUNF
+CL-OOIL,other oil crops,270,OOIL,RAPE,RAPE
+CL-OOIL,other oil crops,289,OOIL,SESA,SESA
+CL-OPUL,other pulses,181,OPUL,OPUL,OPUL
+CL-OPUL,other pulses,187,OPUL,OPUL,OPUL
+CL-OPUL,other pulses,203,OPUL,OPUL,OPUL
+CL-OPUL,other pulses,205,OPUL,OPUL,OPUL
+CL-OPUL,other pulses,210,OPUL,OPUL,OPUL
+CL-OPUL,other pulses,211,OPUL,OPUL,OPUL
+CL-OPUL,other pulses,191,OPUL,CHIC,CHIC
+CL-OPUL,other pulses,195,OPUL,COWP,COWP
+CL-OPUL,other pulses,197,OPUL,PIGE,PIGE
+CL-OPUL,other pulses,201,OPUL,LENT,LENT
+CL-POTA,potato,116,POTA,POTA,POTA
+CL-REST,rest of crops,71,OTHE,OCER,OCER
+CL-REST,rest of crops,75,OTHE,OCER,OCER
+CL-REST,rest of crops,89,OTHE,OCER,OCER
+CL-REST,rest of crops,92,OTHE,OCER,OCER
+CL-REST,rest of crops,94,OTHE,OCER,OCER
+CL-REST,rest of crops,97,OTHE,OCER,OCER
+CL-REST,rest of crops,101,OTHE,OCER,OCER
+CL-REST,rest of crops,103,OTHE,OCER,OCER
+CL-REST,rest of crops,108,OTHE,OCER,OCER
+CL-REST,rest of crops,135,OTHE,ORTS,ORTS
+CL-REST,rest of crops,136,OTHE,ORTS,ORTS
+CL-REST,rest of crops,149,OTHE,ORTS,ORTS
+CL-REST,rest of crops,161,OTHE,REST,REST
+CL-REST,rest of crops,216,OTHE,REST,REST
+CL-REST,rest of crops,217,OTHE,REST,REST
+CL-REST,rest of crops,220,OTHE,REST,REST
+CL-REST,rest of crops,221,OTHE,REST,REST
+CL-REST,rest of crops,222,OTHE,REST,REST
+CL-REST,rest of crops,223,OTHE,REST,REST
+CL-REST,rest of crops,224,OTHE,REST,REST
+CL-REST,rest of crops,225,OTHE,REST,REST
+CL-REST,rest of crops,226,OTHE,REST,REST
+CL-REST,rest of crops,234,OTHE,REST,REST
+CL-REST,rest of crops,671,OTHE,REST,REST
+CL-REST,rest of crops,677,OTHE,REST,REST
+CL-REST,rest of crops,687,OTHE,REST,REST
+CL-REST,rest of crops,689,OTHE,REST,REST
+CL-REST,rest of crops,692,OTHE,REST,REST
+CL-REST,rest of crops,693,OTHE,REST,REST
+CL-REST,rest of crops,698,OTHE,REST,REST
+CL-REST,rest of crops,702,OTHE,REST,REST
+CL-REST,rest of crops,711,OTHE,REST,REST
+CL-REST,rest of crops,720,OTHE,REST,REST
+CL-REST,rest of crops,723,OTHE,REST,REST
+CL-REST,rest of crops,748,OTHE,REST,REST
+CL-REST,rest of crops,754,OTHE,REST,REST
+CL-REST,rest of crops,661,OTHE,COCO,COCO
+CL-REST,rest of crops,667,OTHE,TEAS,TEAS
+CL-REST,rest of crops,826,OTHE,TOBA,TOBA
+CL-REST,rest of crops,836,OTHE,REST,RUBB
+CL-RICE,rice,27,RICE,RICE,RICE
+CL-SORG,sorghum,83,SORG,SORG,SORG
+CL-SOYB,soybean,236,SOYB,SOYB,SOYB
+CL-SUGB,sugar beet,157,SUGB,SUGB,SUGB
+CL-SUGC,sugarcane,156,SUGC,SUGC,SUGC
+CL-SWPY,sweet potato and yam,122,SWPY,SWPO,SWPO
+CL-SWPY,sweet potato and yam,137,SWPY,YAMS,YAMS
+CL-VEFR,vegetables / fruits,358,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,366,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,367,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,372,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,373,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,378,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,393,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,394,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,397,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,399,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,401,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,406,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,407,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,414,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,417,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,420,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,423,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,426,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,430,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,446,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,449,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,459,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,461,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,463,OTHE,VEGE,VEGE
+CL-VEFR,vegetables / fruits,567,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,568,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,569,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,571,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,572,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,574,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,577,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,587,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,591,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,600,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,603,OTHE,TROF,TROF
+CL-VEFR,vegetables / fruits,515,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,521,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,523,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,526,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,530,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,531,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,534,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,536,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,541,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,542,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,544,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,547,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,549,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,550,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,552,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,554,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,558,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,560,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,619,OTHE,TEMF,TEMF
+CL-VEFR,vegetables / fruits,388,OTHE,VEGE,TOMA
+CL-VEFR,vegetables / fruits,402,OTHE,VEGE,ONIO
+CL-VEFR,vegetables / fruits,403,OTHE,VEGE,ONIO
+CL-VEFR,vegetables / fruits,490,OTHE,VEGE,CITR
+CL-VEFR,vegetables / fruits,495,OTHE,VEGE,CITR
+CL-VEFR,vegetables / fruits,497,OTHE,VEGE,CITR
+CL-VEFR,vegetables / fruits,507,OTHE,VEGE,CITR
+CL-VEFR,vegetables / fruits,512,OTHE,VEGE,CITR
+CL-WHEA,wheat,15,WHEA,WHEA,WHEA
